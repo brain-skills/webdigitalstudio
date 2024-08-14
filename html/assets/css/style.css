@@ -863,7 +863,7 @@ body {
 .btn.btn-play {
   display: flex;
   align-items: center;
-  color: #ffffff;
+  color: var(--dark);
   font-weight: 600;
 }
 .btn.btn-play:hover {
@@ -1040,7 +1040,7 @@ body {
   background: #ECEEF2;
 }
 .btn.btn-brand-4-medium {
-  padding: 14px 25px;
+  padding: 14px 20px;
   background-color: var(--theme);
   border-radius: 8px;
   color: var(--dark);
@@ -1053,10 +1053,9 @@ body {
 }
 .btn.btn-brand-4-medium svg {
   fill: var(--dark);
-  margin-left: 5px;
 }
 .btn.btn-brand-4-medium:hover {
-  background: #ECEEF2;
+  background: var(--active);
 }
 .btn.btn-brand-4-sm {
   padding: 4px 21px;
