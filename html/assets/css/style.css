@@ -2796,11 +2796,11 @@ label {
   position: relative;
   padding: 0px 10px;
 }
-.header .main-menu li:first-child {
+.header .main-menu > li:first-child {
   padding: 0px;
   padding-right: 10px;
 }
-.header .main-menu li:last-child {
+.header .main-menu > li:last-child {
   padding: 0px;
   padding-left: 10px;
 }
