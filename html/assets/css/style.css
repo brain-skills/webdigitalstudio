@@ -19,7 +19,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 main {
   display: block;
   clear: both;
-  margin-top: 180px;
+  margin-top: 134px;
 }
 thead {
   font-weight: 600;
@@ -2811,7 +2811,7 @@ label {
   opacity: 1;
   margin-left: 0px;
   position: absolute;
-  top: 37px;
+  top: 32px;
   right: -4px;
 }
 .header .main-menu li.has-children > a:hover::after {
@@ -5811,7 +5811,6 @@ a.icon-socials:hover {
 .top-bar {
   background-color: var(--dark);
   padding: 18px 0px;
-  margin-bottom: 38px;
 }
 .header-style-2 {
   padding-top: 0px;
@@ -6454,8 +6453,8 @@ a.icon-socials:hover {
 }
 .hero-5 .banner-inner-top {
   background-color: var(--dark);
-  padding-top: 250px;
-  padding-bottom: 140px;
+  padding-top: 80px;
+  padding-bottom: 50px;
 }
 .hero-5 .box-banner-left {
   max-width: 652px;

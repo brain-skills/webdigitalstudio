@@ -11,7 +11,7 @@
     var win = $(window);
     win.on("scroll", function () {
         var scroll = win.scrollTop();
-        if (scroll < 99) {
+        if (scroll < 61) {
             header.removeClass("stick");
             $(".header-style-2 .categories-dropdown-active-large").removeClass("open");
             $(".header-style-2 .categories-button-active").removeClass("open");
